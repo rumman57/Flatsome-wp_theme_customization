@@ -16,7 +16,7 @@ Put your code to your exact location.
 
 Open "wp-config.php". Change DB_NAME,DB_USER & DB_PASSWORD as you set.
 
-** Admin Panel : Username => 'rumman' & Password => 'rumman57' **
+**Admin Panel : Username => 'rumman' & Password => 'rumman57'**
 
 Now,Go to Database Folder. Open 'themeoptions.txt' file & copy the text. 
 
